@@ -1,11 +1,11 @@
 {
   "node_modules/@sveltejs/kit/src/runtime/client/start.js": {
-    "file": "_app/immutable/start-708fa822.js",
+    "file": "_app/immutable/start-b4b97edc.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/client/start.js",
     "isEntry": true,
     "imports": [
       "_index-24e95d3e.js",
-      "_singletons-6db305e6.js"
+      "_singletons-88a55538.js"
     ],
     "dynamicImports": [
       ".svelte-kit/generated/nodes/0.js",
@@ -24,12 +24,12 @@
     ]
   },
   "node_modules/@sveltejs/kit/src/runtime/components/error.svelte": {
-    "file": "_app/immutable/components/error.svelte-a84e62d0.js",
+    "file": "_app/immutable/components/error.svelte-12f71db5.js",
     "src": "node_modules/@sveltejs/kit/src/runtime/components/error.svelte",
     "isEntry": true,
     "imports": [
       "_index-24e95d3e.js",
-      "_singletons-6db305e6.js"
+      "_singletons-88a55538.js"
     ]
   },
   "src/routes/+page.svelte": {
@@ -69,8 +69,8 @@
       "_app/immutable/assets/_page-1b4da41f.css"
     ]
   },
-  "_singletons-6db305e6.js": {
-    "file": "_app/immutable/chunks/singletons-6db305e6.js",
+  "_singletons-88a55538.js": {
+    "file": "_app/immutable/chunks/singletons-88a55538.js",
     "imports": [
       "_index-c2edd775.js"
     ]
@@ -108,7 +108,7 @@
     ]
   },
   ".svelte-kit/generated/nodes/1.js": {
-    "file": "_app/immutable/chunks/1-26687e7f.js",
+    "file": "_app/immutable/chunks/1-cf9ca037.js",
     "src": ".svelte-kit/generated/nodes/1.js",
     "isDynamicEntry": true,
     "imports": [
@@ -139,17 +139,17 @@
       "src/routes/main/+page.svelte"
     ]
   },
-  "src/routes/basket/+page.css": {
-    "file": "_app/immutable/assets/_page-7854c1e7.css",
-    "src": "src/routes/basket/+page.css"
+  "src/routes/+page.css": {
+    "file": "_app/immutable/assets/_page-02236d36.css",
+    "src": "src/routes/+page.css"
   },
   "src/routes/main/+page.css": {
     "file": "_app/immutable/assets/_page-1b4da41f.css",
     "src": "src/routes/main/+page.css"
   },
-  "src/routes/+page.css": {
-    "file": "_app/immutable/assets/_page-02236d36.css",
-    "src": "src/routes/+page.css"
+  "src/routes/basket/+page.css": {
+    "file": "_app/immutable/assets/_page-7854c1e7.css",
+    "src": "src/routes/basket/+page.css"
   },
   "ProductList.css": {
     "file": "_app/immutable/assets/ProductList-739c7ba6.css",
